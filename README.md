@@ -1,1 +1,2 @@
 # Pizzeria-in-Assembly
+The online pizzeria is a program that controls online ordering of pizzas, where you can choose the type of pizza and its size. For this the user needs to be registered on the platform. The program must be able to transmit to the user displays of several menus, in which the options can be manipulated with the objective of each user. It should also be able to keep track of the various users and their purchase history. For this purpose we used the Assembly programming language and the JAVA simulator of a 16-byte PEPE processor.
